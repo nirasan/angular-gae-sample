@@ -44,3 +44,7 @@ Thumbs.db
 
 # gae
 /gae/dist
+
+# aot
+/aot
+/src/build.js
